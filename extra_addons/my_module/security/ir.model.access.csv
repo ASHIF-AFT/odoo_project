@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_players_players,players.players,model_players_players,,1,1,1,1
+access_player_details_player_details,player_details.player_details,model_player_details,,1,1,1,1
